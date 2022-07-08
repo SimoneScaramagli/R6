@@ -1,0 +1,2 @@
+Manuale prova1.bat 
+Inserisci il nome della mappa che desideri vedere le strats. E puoi vedere anche gli operatori. 
